@@ -1,5 +1,7 @@
 # Add first Echo application
 
+**This task is optional!**
+
 1. Open console and **destroy** compose that we run in **t1** task:
     ```bash
     docker compose down -v --remove-orphans

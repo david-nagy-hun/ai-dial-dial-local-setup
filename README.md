@@ -55,7 +55,7 @@
 
 ## Learning Path
 1. **T1** - Basic DIAL Chat setup
-2. **T2** - First Echo application in container
+2. **T2** - Optional, First Echo application in container
 3. **T3** - Local development workflow
 4. **T4** - Models and adapter integration
 5. **T5** - Advanced application with streaming

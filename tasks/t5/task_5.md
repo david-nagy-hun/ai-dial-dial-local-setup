@@ -36,4 +36,7 @@
    <img src="_screenshots/finish.png">
 
 ---
+
+## AFTER ALL THE TASKS DONE - DON'T FORGET TO REMOVE API KEYs FROM core/config.json
+
 ## That's all 🎉

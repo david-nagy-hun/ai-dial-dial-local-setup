@@ -60,6 +60,8 @@
 4. **T4** - Models and adapter integration
 5. **T5** - Advanced application with streaming
 
+## AFTER ALL THE TASKS DONE - DON'T FORGET TO REMOVE API KEYs FROM core/config.json
+
 ## Environment Requirements
 - Docker and Docker Compose
 - Python 3.11+ for local development

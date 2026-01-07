@@ -55,5 +55,11 @@ services:
     volumes:
       - ./settings:/opt/settings
       - ${DIAL_DIR:-.}/core:/opt/config
-      - ${DIAL_DIR:-.}/core-logs/:/app/log
-      - ${DIAL_DIR:-.}/core-data/:/app/data
+      - dial-logs:/app/log
+      - dial-data:/app/data
+#      - ${DIAL_DIR:-.}/core-logs/:/app/log
+#      - ${DIAL_DIR:-.}/core-data/:/app/data
+
+volumes:
+  dial-logs:
+  dial-data:
